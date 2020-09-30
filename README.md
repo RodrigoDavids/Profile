@@ -1,8 +1,8 @@
 # Rodrigo Davids
-* Devloper | MySQL | Java | Android Studio| JavaScript|
-* Analytcs System 
-* São Paulo | Brasil 
+* Devloper , MySQL , Java , Android Studio, JavaScript
 * 28 Anos 
+* Systems Analyst
+* São Paulo , Brasil 
 
 
 
